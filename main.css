@@ -1,0 +1,32 @@
+.container{
+    width: 500px;
+    height: 650px;
+    border-radius: 15px;
+    background-color: red;
+    margin: 0 auto;
+    border: 5px double rgb(0, 254, 241);
+    
+}
+.h1{
+   text-align: center;
+    color: aliceblue;
+    font-size: 60px;
+}
+img{
+    width: 200px;
+    height: 200px;
+    margin-top: -10px;
+    margin-left: 150px;
+}
+.container-p{ 
+    text-align: center;
+    line-height: 30px;
+    letter-spacing: 4px;
+    color: green;
+    font-size: 18px;
+}
+a{
+    letter-spacing: -0.0px;
+    text-decoration: none;
+    color: rgb(3, 252, 181);
+}
